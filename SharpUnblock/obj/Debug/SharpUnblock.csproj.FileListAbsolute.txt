@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\FileClean\FileClean\bin\Debug\FileClean.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\FileClean\FileClean\bin\Debug\FileClean.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\FileClean\FileClean\bin\Debug\FileClean.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\FileClean\FileClean\obj\Debug\FileClean.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\FileClean\FileClean\obj\Debug\FileClean.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\SharpUnblock\FileClean\bin\Debug\FileClean.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\SharpUnblock\FileClean\obj\Debug\FileClean.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\SharpUnblock\FileClean\obj\Debug\FileClean.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\SharpUnblock\SharpUnblock\bin\Debug\FileClean.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\SharpUnblock\SharpUnblock\obj\Debug\FileClean.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\SharpUnblock\SharpUnblock\obj\Debug\FileClean.pdb

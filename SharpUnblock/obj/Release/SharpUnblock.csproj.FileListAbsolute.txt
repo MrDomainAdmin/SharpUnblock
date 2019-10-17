@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\SharpUnblock\SharpUnblock\obj\Release\SharpUnblock.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\SharpUnblock\SharpUnblock\bin\Release\SharpUnblock.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\SharpUnblock\SharpUnblock\bin\Release\SharpUnblock.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\SharpUnblock\SharpUnblock\bin\Release\SharpUnblock.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\SharpUnblock\SharpUnblock\obj\Release\SharpUnblock.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\SharpUnblock\SharpUnblock\obj\Release\SharpUnblock.pdb
